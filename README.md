@@ -5,4 +5,4 @@ Latest version: Beta
 
 Now part of the iPod Syncer app bundle.
 Go to the repository here:
-
+https://github.com/matthewyang204/iPod-Syncer-Bundle
